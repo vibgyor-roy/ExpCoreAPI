@@ -1,0 +1,11 @@
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/bin/Debug/netcoreapp2.0/ProductAPI.deps.json
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/bin/Debug/netcoreapp2.0/ProductAPI.runtimeconfig.json
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/bin/Debug/netcoreapp2.0/ProductAPI.runtimeconfig.dev.json
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/bin/Debug/netcoreapp2.0/ProductAPI.dll
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/bin/Debug/netcoreapp2.0/ProductAPI.pdb
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/obj/Debug/netcoreapp2.0/ProductAPI.csprojResolveAssemblyReference.cache
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/obj/Debug/netcoreapp2.0/ProductAPI.csproj.CoreCompileInputs.cache
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/obj/Debug/netcoreapp2.0/ProductAPI.AssemblyInfoInputs.cache
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/obj/Debug/netcoreapp2.0/ProductAPI.AssemblyInfo.cs
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/obj/Debug/netcoreapp2.0/ProductAPI.dll
+/home/arunabha/Desktop/All Stuff/TestApps/ProductAPI/obj/Debug/netcoreapp2.0/ProductAPI.pdb
