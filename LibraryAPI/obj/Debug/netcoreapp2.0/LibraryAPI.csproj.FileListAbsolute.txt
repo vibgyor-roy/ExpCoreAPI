@@ -1,0 +1,11 @@
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.deps.json
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.runtimeconfig.json
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.runtimeconfig.dev.json
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.dll
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/bin/Debug/netcoreapp2.0/LibraryAPI.pdb
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.csprojResolveAssemblyReference.cache
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.csproj.CoreCompileInputs.cache
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.AssemblyInfoInputs.cache
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.AssemblyInfo.cs
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.dll
+/home/arunabha/Desktop/All Stuff/TestApps/ExpCoreAPI/LibraryAPI/obj/Debug/netcoreapp2.0/LibraryAPI.pdb
